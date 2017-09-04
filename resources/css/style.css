@@ -1,0 +1,10 @@
+body {
+    padding-top: 70px;
+}
+
+.navbar  {
+  display: inline-block;
+  float: none;
+  vertical-align: top;
+}
+
